@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://dblp.uni-trier.de/pers/hd/z/Zhou:Yongluan">my DBLP page</a>.</u>
+You can also find my articles on <a href="https://dblp.uni-trier.de/pers/hd/z/Zhou:Yongluan">my DBLP page</a>.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -42,7 +42,7 @@ You can also find my articles on <u><a href="https://dblp.uni-trier.de/pers/hd/z
 * Tolerating Correlated Failures in Massively Parallel Stream Processing Engines. L. Su, Y. Zhou. 32nd IEEE International Conference on Data Engineering (ICDE 2016), Helsinki, Finland, May 16-20, 2016. (selected as best of ICDE'16 to be invited to submit an extended version to TKDE.)
 * Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine. K. G. S. Madsen, Y. Zhou, J. Cao. arXiv:1602.03770
 
-###2015
+### 2015
 * Dissemination of Anonymized Streaming Data. Y. Zhou, L. Shou, X. Shang, K. Chen. The 9th ACM International Conference on Distributed Event-Based Systems (DEBS 2015). Oslo, Norway, June 29 - July 3, 2015.
 * Adaptive Grid-Based k-median Clustering of Streaming Data with Accuracy Guarantee. J. Cao, Y. Zhou, M. Wu. The 20th International Conference on Database Systems for Advanced Applications (DASFAA 2015). Hanoi, Vietnam, 20-23 April, 2015. (Best Paper Award)
 * Scalable SPARQL Querying using Path Partitioning. B. Wu, Y. Zhou, P. Yuan, L. Liu, H. Jin. 31st IEEE International Conference on Data Engineering (ICDE 2015), Seoul, Korea, April 13-17, 2015.
