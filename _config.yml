@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Yongluan Zhou"
+title                    : "Yongluan Zhou"
 title_separator          : "-"
 name                     : &name "Yongluan Zhou"
 description              : &description "Associate Professor of Computer Science at the University of Copenhagen"
@@ -108,12 +108,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.uni-trier.de/pers/hd/z/Zhou:Yongluan"
 
 
 # Reading Files
