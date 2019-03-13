@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ## Recent News
-* Serves as the Head of Studies of the Master in Computer Science from April 2019.
+* Serves as the Head of Studies of the [Master in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 * Paper accepted at EDBT 2019: "Modeling and Building IoT Data Platforms with Actor-Oriented Databases". 
-* Paper accepted at ACM TOCS: "Deca: a Garbage Collection Optimizer for In-memory Data Processing".
-* Invited to Shanon meeting "Graph Database Systems: Bridging Theory, Practice, and Engineering". 
-* Workshop on Big Graph Analysis Systems was held in Copenhagen on Aug 21-22, 2017 (a brief summary available here). 
-* Paper accepted at ACM Computing Surveys: "Graph Processing on GPUs: A Survey".  
-* Paper accepted at TKDE as best of ICDE'2016: "Passive and Partially Active Fault Tolerance for Massively Parallel Stream Processing Engines". 
-* Invited to Dagstuhl Seminar "Big Stream Processing Systems". 
+* Paper accepted at ACM TOCS: ["Deca: a Garbage Collection Optimizer for In-memory Data Processing"](https://static-curis.ku.dk/portal/files/209318282/deca.pdf).
+* Invited to Shanon meeting ["Graph Database Systems: Bridging Theory, Practice, and Engineering"](http://shonan.nii.ac.jp/shonan/blog/2018/02/09/no-138-graph-database-systems-bridging-theory-practice-and-engineering/). 
+* [Workshop on Big Graph Analysis Systems](https://di.ku.dk/english/research/apl-group/dms/biggraphsys2017/) was held in Copenhagen on Aug 21-22, 2017 (a brief summary available here). 
+* Paper accepted at ACM Computing Surveys: ["Graph Processing on GPUs: A Survey"](https://static-curis.ku.dk/portal/files/209317668/gpu_survey.pdf).  
+* Paper accepted at TKDE as best of ICDE'2016: ["Passive and Partially Active Fault Tolerance for Massively Parallel Stream Processing Engines"](http://static-curis.ku.dk/portal/files/182749482/paper.pdf). 
+* Invited to Dagstuhl Seminar ["Big Stream Processing Systems"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17441). 
 
 ## Short Bio
 Yongluan is an Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems (DMS) Lab](http://diku.dk/dms). 
