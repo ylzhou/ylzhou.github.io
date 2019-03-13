@@ -83,11 +83,11 @@ author:
   name             : "Yongluan Zhou"
   avatar           : "profile.jpg"
   bio              : "Associate Professor of Computer Science at the University of Copenhagen"
-  location         : "Copenhagen, Denmark"
-  employer         :
+  location         : "Universitetsparken 5, DK-2100 Copenhagen, Denmark"
+  employer         : "Department of Computer Science, University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : zhou (at) di (dot) ku (dot) dk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
