@@ -19,7 +19,7 @@ redirect_from:
 * Invited to Dagstuhl Seminar ["Big Stream Processing Systems"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17441). 
 
 ## Short Bio
-Yongluan is an Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studes of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/)
+Yongluan is an Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studes of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/).
 
 Before joining UCPH, he had been an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and a postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He also held visiting positions at several international institutes, including the University of Maryland at College Park, the Advanced Digital Sciences Center at the University of Illinois at Urbana-Champaign and INRIA Rennes. 
 
