@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
-* Serves as the Head of Studies of the [Master in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
+* Serves as the Head of Studies of [Master in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 * Paper accepted at EDBT 2019: "Modeling and Building IoT Data Platforms with Actor-Oriented Databases". 
 * Paper accepted at ACM TOCS: ["Deca: a Garbage Collection Optimizer for In-memory Data Processing"](https://static-curis.ku.dk/portal/files/209318282/deca.pdf).
 * Invited to Shanon meeting ["Graph Database Systems: Bridging Theory, Practice, and Engineering"](http://shonan.nii.ac.jp/shonan/blog/2018/02/09/no-138-graph-database-systems-bridging-theory-practice-and-engineering/). 
