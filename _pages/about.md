@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
-* Serves as the Head of Studies of [Master of Science in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
+* Serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 * Paper accepted at EDBT 2019: ["Modeling and Building IoT Data Platforms with Actor-Oriented Databases"](publications/WRBSMZ19-iotactors.pdf). 
 * Paper accepted at ACM TOCS: ["Deca: a Garbage Collection Optimizer for In-memory Data Processing"](https://static-curis.ku.dk/portal/files/209318282/deca.pdf).
 * Invited to Shanon meeting ["Graph Database Systems: Bridging Theory, Practice, and Engineering"](http://shonan.nii.ac.jp/shonan/blog/2018/02/09/no-138-graph-database-systems-bridging-theory-practice-and-engineering/). 
@@ -19,7 +19,7 @@ redirect_from:
 * Invited to Dagstuhl Seminar ["Big Stream Processing Systems"](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17441). 
 
 ## Short Bio
-Yongluan is an Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems (DMS) Lab](http://diku.dk/dms). 
+Yongluan is an Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studes of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/)
 
 Before joining UCPH, he had been an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and a postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He also held visiting positions at several international institutes, including the University of Maryland at College Park, the Advanced Digital Sciences Center at the University of Illinois at Urbana-Champaign and INRIA Rennes. 
 
