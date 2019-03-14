@@ -18,8 +18,8 @@ You can also find my articles on <a href="https://dblp.uni-trier.de/pers/hd/z/Zh
 
 ### 2019
 
-* [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](publications/WRBSMZ19-iotactors.pdf). Y. Wang, J. C. D. Reis, K. M. Borggren, M. A. V. Salles, C. B. Medeiros and Y. Zhou. In EDBT 2019, 22nd International Conference on Extending Database Technology. March 26-29, 2019. 
-* Towards Low-Latency Batched Stream Processing by Pre-Scheduling.  H. Jin, F. Chen, S. Wu, Y. Yao, Z. Liu, L. Gu, Y. Zhou. In IEEE Transactions on Parallel and Distributed Systems (TPDS), Vo. 30, Issue 3, pp. 710 - 722, March 2019. 
+* [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](WRBSMZ19-iotactors.pdf). Y. Wang, J. C. D. Reis, K. M. Borggren, M. A. V. Salles, C. B. Medeiros and Y. Zhou. In EDBT 2019, 22nd International Conference on Extending Database Technology. March 26-29, 2019. 
+* [Towards Low-Latency Batched Stream Processing by Pre-Scheduling](https://static-curis.ku.dk/portal/files/211209251/TPDS18.pdf).  H. Jin, F. Chen, S. Wu, Y. Yao, Z. Liu, L. Gu, Y. Zhou. In IEEE Transactions on Parallel and Distributed Systems (TPDS), Vo. 30, Issue 3, pp. 710 - 722, March 2019. 
 * [Passive and Partially Active Fault Tolerance for Massively Parallel Stream Processing Engines](http://static-curis.ku.dk/portal/files/182749482/paper.pdf). L. Su, Y. Zhou. In IEEE Transactions on Knowlege and Data Engineering (TKDE), Vo. 31, No. 1, January 2019. (Special Section on best of ICDE'2016) 
 
 ### 2018
@@ -29,18 +29,17 @@ You can also find my articles on <a href="https://dblp.uni-trier.de/pers/hd/z/Zh
 ### 2017
 
 * [Parallel SPARQL Query Optimization](http://static-curis.ku.dk/portal/files/182750274/ICDE2017.pdf) B. Wu, Y. Zhou, H. Jin, A. Deshpande. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, San Diego, California, USA, April 19-22, 2017.
-* [Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](http://static-curis.ku.dk/portal/files/179278063/1602.03770v1). K. G. S. Madsen, Y. Zhou, J. Cao. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, poster paper, San Diego, California, USA, April 19-22, 2017.
+* [Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](https://arxiv.org/abs/1602.03770). K. G. S. Madsen, Y. Zhou, J. Cao. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, poster paper, San Diego, California, USA, April 19-22, 2017.
 * [Progressive Recovery of Correlated Failures in Distributed Stream Processing Engines](https://openproceedings.org/2017/conf/edbt/paper-383.pdf). L. Su, Y. Zhou. In EDBT 2017, 20th International Conference on Extending Database Technology, short paper, Venice, Italy, March 21-24, 2017.
 * [CBP: A New Parallelization Paradigm for Massively Distributed Stream Processing](http://static-curis.ku.dk/portal/files/182750391/cbp_dasfaa17.pdf). Q. Guo, Y. Zhou. In DASFAA 2017, 22nd International Conference on Database Systems for Advanced Applications, Suzhou, China, March 27-30, 2017.
 * [Lever: Towards Low-Latency Batched Stream Processing by Pre-Scheduling](http://static-curis.ku.dk/portal/files/182750561/socc17invitedposters_final8.pdf). F. Chen, S. Wu, H. Jin, Y. Yao, Z. Liu, L. Gu, Y. Zhou. In SOCC 2017, ACM Symposium on Cloud Computing,  poster paper, Santa Clara, California, September 25-27, 2017. 
 
 ### 2016
 
-* [Materialized View Selection in Feed Following Systems](publications/CZ16-viewselection.pdf). K. Chen, Y. Zhou. In Proceedings of 2016 IEEE International Conference on Big Data (IEEE BigData 2016), Washington D.C., USA, Dec. 5-8, 2016.
+* [Materialized View Selection in Feed Following Systems](CZ16-viewselection.pdf). K. Chen, Y. Zhou. In Proceedings of 2016 IEEE International Conference on Big Data (IEEE BigData 2016), Washington D.C., USA, Dec. 5-8, 2016.
 * [Lifetime-Based Memory Management for Distributed Data Processing Systems](http://www.vldb.org/pvldb/vol9/p936-lu.pdf). L. Lu, X. Shi, Y. Zhou, X. Zhang, H. Jin, C. Pei, L. He, Y. Geng. Proceedings of the VLDB Endowment (PVLDB), Volume 9, Issue 12, 2016. (extended version)
-* [Enorm: Efficient Window-Based Computation in Large-Scale Distributed Stream Processing Systems](publications/MZS16-enorm.pdf). K. G. S. Madsen, Y. Zhou, L. Su. The 10th ACM International Conference on Distributed and Event-Based Systems (DEBS 2016), Irvine, CA, June 20 - June 24, 2016.
+* [Enorm: Efficient Window-Based Computation in Large-Scale Distributed Stream Processing Systems](MZS16-enorm.pdf). K. G. S. Madsen, Y. Zhou, L. Su. The 10th ACM International Conference on Distributed and Event-Based Systems (DEBS 2016), Irvine, CA, June 20 - June 24, 2016.
 * [Tolerating Correlated Failures in Massively Parallel Stream Processing Engines](http://arxiv.org/abs/1508.04907). L. Su, Y. Zhou. 32nd IEEE International Conference on Data Engineering (ICDE 2016), Helsinki, Finland, May 16-20, 2016. (selected as best of ICDE'16 to be invited to submit an extended version to TKDE.)
-* [Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](https://arxiv.org/abs/1602.03770). K. G. S. Madsen, Y. Zhou, J. Cao. arXiv:1602.03770
 
 ### 2015
 * Dissemination of Anonymized Streaming Data. Y. Zhou, L. Shou, X. Shang, K. Chen. The 9th ACM International Conference on Distributed Event-Based Systems (DEBS 2015). Oslo, Norway, June 29 - July 3, 2015.
