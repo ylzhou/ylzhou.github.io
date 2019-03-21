@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://dblp.uni-trier.de/pers/hd/z/Zhou:Yongluan">my DBLP page</a>.
+
+{% if author.dblp %}
+You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
+{% endif %}
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
