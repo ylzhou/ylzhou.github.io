@@ -33,6 +33,9 @@ His research interests span database systems and distributed systems. His recent
 ### Conference/Workshop Program Committee
 * IEEE BigData 2019 (PC Vice-Chair)
 * SIGMOD 2019
+* DASFAAA 2019
+* MDM 2019
+* IEEE BigData Congress 2019
 * ICDE 2018 (demo track & industry and applications track)
 * OPODIS 2018
 * SSDBM 2018
