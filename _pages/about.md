@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yongluan Zhou"
-excerpt: "About me"
+title: "About Me"
+excerpt: "Yongluan Zhou"
 author_profile: true
 redirect_from: 
   - /about/
