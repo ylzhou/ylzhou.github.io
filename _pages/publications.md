@@ -1,4 +1,4 @@
----
+ ---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -17,6 +17,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 
 ### 2019
+* [Location-Centric View Selection in a Location-Based Feed-Following System]. K. Chen, **Y. Zhou**. In DEBS 2019, 13th ACM International Conference On Distributed and Event-Based Systems, Darmstadt, Germany, 24th - 28th June, 2019.
 * [Deca: a Garbage Collection Optimizer for In-memory Data Processing](https://static-curis.ku.dk/portal/files/209318282/deca.pdf). X. Shi, Z. Ke, **Y. Zhou**, L. Lu, X. Zhang, H. Jin, L. He, F. Wang. In ACM Transactions on Computer Systems (TOCS), Volume 36 Issue 1, pp. 3:1--3:47, March 2019. 
 * [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](WRBSMZ19-iotactors.pdf). Y. Wang, J. C. D. Reis, K. M. Borggren, M. A. V. Salles, C. B. Medeiros and **Y. Zhou**. In EDBT 2019, 22nd International Conference on Extending Database Technology. March 26-29, 2019. 
 * [Towards Low-Latency Batched Stream Processing by Pre-Scheduling](https://static-curis.ku.dk/portal/files/211209251/TPDS18.pdf).  H. Jin, F. Chen, S. Wu, Y. Yao, Z. Liu, L. Gu, **Y. Zhou**. In IEEE Transactions on Parallel and Distributed Systems (TPDS), Vo. 30, Issue 3, pp. 710 - 722, March 2019. 
@@ -24,7 +25,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 ### 2018
 * [Graph Processing on GPUs: A Survey](https://static-curis.ku.dk/portal/files/209317668/gpu_survey.pdf).  X. Shi, Z. Zheng, **Y. Zhou**, H. Jin, L. He, B. Liu, Q. Hua,  ACM Computing Surveys, Volume 50 Issue 6, 2018.
-* Query-Centric Failure Recovery for Distributed Stream Processing Engines. L. Su, **Y. Zhou**. In ICDE 2018, 34th IEEE International Conference on Data Engineering, poster paper, Paris France, April 16th - 19th, 2018. 
+* Query-Centric Failure Recovery for Distributed Stream Processing Engines. L. Su, **Y. Zhou**. In ICDE 2018, 34th IEEE International Conference on Data Engineering, poster paper, Paris, France, April 16th - 19th, 2018. 
 
 ### 2017
 

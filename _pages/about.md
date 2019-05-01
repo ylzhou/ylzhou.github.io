@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Short Bio
-Yongluan Zhou is Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studes of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/).
+Yongluan Zhou is Associate Professor in the [Department of Computer Science](http://diku.dk) at the [University of Copenhagen (UCPH)](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/).
 
 Before joining UCPH, he had been an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and a postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). He also held visiting positions at several international institutes, including the University of Maryland at College Park, the Advanced Digital Sciences Center at the University of Illinois at Urbana-Champaign and INRIA Rennes. 
 
