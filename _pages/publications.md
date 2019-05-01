@@ -1,4 +1,4 @@
- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -25,7 +25,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 ### 2018
 * [Graph Processing on GPUs: A Survey](https://static-curis.ku.dk/portal/files/209317668/gpu_survey.pdf).  X. Shi, Z. Zheng, **Y. Zhou**, H. Jin, L. He, B. Liu, Q. Hua,  ACM Computing Surveys, Volume 50 Issue 6, 2018.
-* Query-Centric Failure Recovery for Distributed Stream Processing Engines. L. Su, **Y. Zhou**. In ICDE 2018, 34th IEEE International Conference on Data Engineering, poster paper, Paris, France, April 16th - 19th, 2018. 
+* Query-Centric Failure Recovery for Distributed Stream Processing Engines. L. Su, **Y. Zhou**. In ICDE 2018, 34th IEEE International Conference on Data Engineering, poster paper, Paris France, April 16th - 19th, 2018. 
 
 ### 2017
 
