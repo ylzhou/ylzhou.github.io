@@ -10,6 +10,7 @@ author_profile: true
 * Yuan Liang, PhD student
 * Ziming Luo, PhD student
 * Yijian Liu, PhD student
+* Wang Zhou, visiting PhD student (UESTC, China) 
 
 ### Graduated PhD students:
 * Li Su, Thesis Title: Fault Tolerance in Distributed Stream Processing Systems, Aug 2016.
@@ -27,7 +28,7 @@ author_profile: true
 * Jonas Haustad, Thesis Title: Model-Based Dissemination of Dynamic Data. Sept 2011.
 * Jacob Aae Mikkelsen, Thesis Title: Efficient Complex Event Processing over Data Streams. Feb 2010. (co-supervised with Kim Skak Larsen)
 
-### Visiting Students:
+### Completed Visiting Students:
 * Wang Zhou, PhD student, UESTC, China (Jan 2019 - Dec 2019)
 * Buwen Wu, PhD Student, Huazhong University of Science and Technology, China (Nov 2013 - May 2015)
 * Lei Shi, PhD Student, National University of Singapore (Nov 2011 - Jul 2012)
