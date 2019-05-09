@@ -16,6 +16,7 @@ Before joining UCPH, he had been an Associate Professor at the [University of So
 His research interests span database systems and distributed systems. His recent research focuses on scalable streaming data processing and graph data processing. He has published over 50 research articles in international journals and conference proceedings. He has served on the Program Committees of various international conferences, including SIGMOD, VLDB, and ICDE.
 
 ## Recent News
+* [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/) will be held in Copenhagen, 30th March-2nd April, 2020.
 * Serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 * Paper accepted at EDBT 2019: ["Modeling and Building IoT Data Platforms with Actor-Oriented Databases"](publications/WRBSMZ19-iotactors.pdf). 
 * Paper accepted at ACM TOCS: ["Deca: a Garbage Collection Optimizer for In-memory Data Processing"](https://static-curis.ku.dk/portal/files/209318282/deca.pdf).
