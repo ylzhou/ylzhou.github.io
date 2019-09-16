@@ -35,6 +35,7 @@ His research interests span database systems and distributed systems. His recent
 * VLDB 2021 (Local Organization Chair)
 
 ### Conference/Workshop Program Committee
+* SIGMOD 2020 (demo track)
 * IEEE BigData 2019 (PC Vice-Chair)
 * SIGMOD 2019
 * DASFAAA 2019
