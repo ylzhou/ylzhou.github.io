@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
+* New project funded by [Independent Research Fund Denmark](https://dff.dk/en): "PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems". A PhD position will be available. Please contact me for more details if you are interested.
 * PhD and Postdoc Positions are available within the new project "[Consistent and Efficient Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)" funded by [Independent Research Fund Denmark](https://dff.dk/en). Please contact me for more details if you are interested.
 * [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/) will be held in Copenhagen, 30th March-2nd April, 2020.
 * Serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
