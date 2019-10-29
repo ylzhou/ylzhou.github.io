@@ -32,12 +32,14 @@ His research interests span database systems and distributed systems. His recent
 
 ## Recent Professional Activities
 ### Conference Organization Committee
-* EDBT 2020 (General Chair)
 * VLDB 2021 (Local Organization Chair)
+* EDBT 2020 (General Chair)
+* IEEE BigData 2019 (PC Vice-Chair)
 
 ### Conference/Workshop Program Committee
 * SIGMOD 2020 (demo track)
-* IEEE BigData 2019 (PC Vice-Chair)
+* DASFAAA 2020
+* MDM 2020
 * SIGMOD 2019
 * DASFAAA 2019
 * MDM 2019
