@@ -38,6 +38,8 @@ His research interests span database systems and distributed systems. His recent
 
 ### Conference/Workshop Program Committee
 * SIGMOD 2020 (demo track)
+* CIKM 2020
+* SSDBM 2020
 * DASFAAA 2020
 * MDM 2020
 * SIGMOD 2019
