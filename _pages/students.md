@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Students and Postdocs"
+title: "Research Group"
 permalink: /students/
 author_profile: true
 ---
 
-### Current Members:
-* Li Su, Postdoc 
+### Current Group Members:
 * Yuan Liang, PhD student
 * Ziming Luo, PhD student
 * Yijian Liu, PhD student
-* Wang Zhou, visiting PhD student (UESTC, China) 
+* Rodrigo Laigner, PhD student 
+* Albertas Kazakevicius, MSc student
+* Viktoria Simsikova, MSc student
+* Lorenzo Catalli, MSc student
+* Jia Xi, MSc student
+
 
 ### Graduated PhD students:
 * Li Su, Thesis Title: Fault Tolerance in Distributed Stream Processing Systems, Aug 2016.
@@ -29,6 +33,7 @@ author_profile: true
 * Jacob Aae Mikkelsen, Thesis Title: Efficient Complex Event Processing over Data Streams. Feb 2010. (co-supervised with Kim Skak Larsen)
 
 ### Completed Visiting Students:
+* Wang Zhou, PhD student, University of Electronic Science and Technology of China, China (Jan 2019 - Dec 2019)
 * Buwen Wu, PhD Student, Huazhong University of Science and Technology, China (Nov 2013 - May 2015)
 * Lei Shi, PhD Student, National University of Singapore (Nov 2011 - Jul 2012)
 * Boliang Feng, MSc student, Renmin University of China (Jul 2011 - Oct 2011)
