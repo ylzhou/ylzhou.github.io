@@ -21,7 +21,7 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 
 ## Recent Professional Activities
 ### Conference Organization Committee
-* VLDB 2021 (Local Organization Chair)
+* VLDB 2021 (Local Arrangement Chair)
 * EDBT/ICDT 2020 (General Chair)
 * IEEE BigData 2019 (PC Vice-Chair)
 
