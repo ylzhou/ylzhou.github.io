@@ -16,9 +16,9 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 
-###2020
-*[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](icde20-maxson.pdf). X. Shi, Y. Zhang, H. Huang, Z. Hu, H. Jin, H. Shen, **Y. Zhou**, B. He, R. Li, K. Zhou. In ICDE 2020, IEEE 36th International Conference on Data Engineering, Dallas, Texas, USA, April 20th -24th, 2020.
-*[Holding a Conference Online and Live due to COVID-19](https://arxiv.org/abs/2004.07668). A. Bonifati, G. Guerrini, C. Lutz, W. Martens, L. Mazilu, N. Paton, M.A.V. Salles, M.H. Scholl, **Y. Zhou**. ArXiv, abs/2004.07668.
+### 2020
+* [Maxson: Reduce Duplicate Parsing Overhead on Raw Data](icde20-maxson.pdf). X. Shi, Y. Zhang, H. Huang, Z. Hu, H. Jin, H. Shen, **Y. Zhou**, B. He, R. Li, K. Zhou. In ICDE 2020, IEEE 36th International Conference on Data Engineering, Dallas, Texas, USA, April 20th -24th, 2020.
+* [Holding a Conference Online and Live due to COVID-19](https://arxiv.org/abs/2004.07668). A. Bonifati, G. Guerrini, C. Lutz, W. Martens, L. Mazilu, N. Paton, M.A.V. Salles, M.H. Scholl, **Y. Zhou**. ArXiv, abs/2004.07668.
 
 
 ### 2019
