@@ -16,6 +16,11 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 
+###2020
+*[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](icde20-maxson.pdf). X. Shi, Y. Zhang, H. Huang, Z. Hu, H. Jin, H. Shen, **Y. Zhou**, B. He, R. Li, K. Zhou. In ICDE 2020, IEEE 36th International Conference on Data Engineering, Dallas, Texas, USA, April 20th -24th, 2020.
+*[Holding a Conference Online and Live due to COVID-19](https://arxiv.org/abs/2004.07668). A. Bonifati, G. Guerrini, C. Lutz, W. Martens, L. Mazilu, N. Paton, M.A.V. Salles, M.H. Scholl, **Y. Zhou**. ArXiv, abs/2004.07668.
+
+
 ### 2019
 * [Location-Centric View Selection in a Location-Based Feed-Following System](CZ19-location.pdf). K. Chen, **Y. Zhou**. In DEBS 2019, 13th ACM International Conference On Distributed and Event-Based Systems, Darmstadt, Germany, 24th - 28th June, 2019.
 * [Deca: a Garbage Collection Optimizer for In-memory Data Processing](https://static-curis.ku.dk/portal/files/209318282/deca.pdf). X. Shi, Z. Ke, **Y. Zhou**, L. Lu, X. Zhang, H. Jin, L. He, Z. Hu, F. Wang. In ACM Transactions on Computer Systems (TOCS), Volume 36 Issue 1, pp. 3:1--3:47, March 2019. 
