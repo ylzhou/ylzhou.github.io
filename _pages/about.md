@@ -10,7 +10,7 @@ redirect_from:
 
 ## Recent News
 * See our [report about EDBT/ICDT 2020](https://cacm.acm.org/blogs/blog-cacm/244379-holding-a-conference-online-and-live-due-to-covid-19/fulltext) posted on Blog@CACM.
-* Appointed as Professor of Large-Scale Data Management Systems. 
+* Appointed as [Professor of Large-Scale Data Management Systems](https://di.ku.dk/english/news/2020/yongluan-zhou-professor-english/). 
 * New project funded by [Independent Research Fund Denmark](https://dff.dk/en): "PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems". A PhD position will be available. Please contact me for more details if you are interested.
 * PhD and Postdoc Positions are available within the new project "[Consistent and Efficient Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)" funded by [Independent Research Fund Denmark](https://dff.dk/en). Please contact me for more details if you are interested.
 * [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/) will be held in Copenhagen, 30th March-2nd April, 2020.
