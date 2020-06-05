@@ -23,9 +23,9 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 
 ### 2019
-* [Location-Centric View Selection in a Location-Based Feed-Following System](CZ19-location.pdf). K. Chen, **Y. Zhou**. In DEBS 2019, 13th ACM International Conference On Distributed and Event-Based Systems, Darmstadt, Germany, 24th - 28th June, 2019.
+* [Location-Centric View Selection in a Location-Based Feed-Following System](https://static-curis.ku.dk/portal/files/242464267/CZ19_location.pdf). K. Chen, **Y. Zhou**. In DEBS 2019, 13th ACM International Conference On Distributed and Event-Based Systems, Darmstadt, Germany, 24th - 28th June, 2019.
 * [Deca: a Garbage Collection Optimizer for In-memory Data Processing](https://static-curis.ku.dk/portal/files/209318282/deca.pdf). X. Shi, Z. Ke, **Y. Zhou**, L. Lu, X. Zhang, H. Jin, L. He, Z. Hu, F. Wang. In ACM Transactions on Computer Systems (TOCS), Volume 36 Issue 1, pp. 3:1--3:47, March 2019. 
-* [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](WRBSMZ19-iotactors.pdf). Y. Wang, J. C. D. Reis, K. M. Borggren, M. A. V. Salles, C. B. Medeiros and **Y. Zhou**. In EDBT 2019, 22nd International Conference on Extending Database Technology. March 26-29, 2019. 
+* [Modeling and Building IoT Data Platforms with Actor-Oriented Databases](https://static-curis.ku.dk/portal/files/235925410/OA_Modeling_and_Building_IoT_Data_Platforms_with.pdf). Y. Wang, J. C. D. Reis, K. M. Borggren, M. A. V. Salles, C. B. Medeiros and **Y. Zhou**. In EDBT 2019, 22nd International Conference on Extending Database Technology. March 26-29, 2019. 
 * [Towards Low-Latency Batched Stream Processing by Pre-Scheduling](https://static-curis.ku.dk/portal/files/211209251/TPDS18.pdf).  H. Jin, F. Chen, S. Wu, Y. Yao, Z. Liu, L. Gu, **Y. Zhou**. In IEEE Transactions on Parallel and Distributed Systems (TPDS), Vo. 30, Issue 3, pp. 710 - 722, March 2019. 
 * [Passive and Partially Active Fault Tolerance for Massively Parallel Stream Processing Engines](http://static-curis.ku.dk/portal/files/182749482/paper.pdf). L. Su, **Y. Zhou**. In IEEE Transactions on Knowlege and Data Engineering (TKDE), Vo. 31, No. 1, January 2019. (Special Section on best of ICDE'2016) 
 
@@ -37,8 +37,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 ### 2017
 
 * [Parallel SPARQL Query Optimization](http://static-curis.ku.dk/portal/files/182750274/ICDE2017.pdf) B. Wu, **Y. Zhou**, H. Jin, A. Deshpande. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, San Diego, California, USA, April 19-22, 2017.
-* [Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](https://arxiv.org/abs/1602.03770). K. G. S. Madsen, **Y. Zhou**, J. Cao. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, poster paper, San Diego, California, USA, April 19-22, 2017.
-* [Progressive Recovery of Correlated Failures in Distributed Stream Processing Engines](https://openproceedings.org/2017/conf/edbt/paper-383.pdf). L. Su, **Y. Zhou**. In EDBT 2017, 20th International Conference on Extending Database Technology, short paper, Venice, Italy, March 21-24, 2017.
+* [Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](https://static-curis.ku.dk/portal/files/179278063/1602.03770v1). K. G. S. Madsen, **Y. Zhou**, J. Cao. In ICDE 2017, 33rd IEEE International Conference on Data Engineering, poster paper, San Diego, California, USA, April 19-22, 2017.
+* [Progressive Recovery of Correlated Failures in Distributed Stream Processing Engines](https://static-curis.ku.dk/portal/files/242464330/paper_383.pdf). L. Su, **Y. Zhou**. In EDBT 2017, 20th International Conference on Extending Database Technology, short paper, Venice, Italy, March 21-24, 2017.
 * [CBP: A New Parallelization Paradigm for Massively Distributed Stream Processing](http://static-curis.ku.dk/portal/files/182750391/cbp_dasfaa17.pdf). Q. Guo, **Y. Zhou**. In DASFAA 2017, 22nd International Conference on Database Systems for Advanced Applications, Suzhou, China, March 27-30, 2017.
 * [Lever: Towards Low-Latency Batched Stream Processing by Pre-Scheduling](http://static-curis.ku.dk/portal/files/182750561/socc17invitedposters_final8.pdf). F. Chen, S. Wu, H. Jin, Y. Yao, Z. Liu, L. Gu, **Y. Zhou**. In SOCC 2017, ACM Symposium on Cloud Computing,  poster paper, Santa Clara, California, September 25-27, 2017. 
 
