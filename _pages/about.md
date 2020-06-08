@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
-* Open PhD position in efficient monitoring of event-based systems for security and privacy violations (Deadline June 30). Click [here](https://employment.ku.dk/phd/?show=151919) for more information. 
+* Open PhD position in efficient monitoring of event-based systems for security and privacy violations (Deadline June 30). Click [here](https://employment.ku.dk/phd/?show=151919) for more information and to apply. 
 * See our [report about EDBT/ICDT 2020](https://cacm.acm.org/blogs/blog-cacm/244379-holding-a-conference-online-and-live-due-to-covid-19/fulltext) posted on Blog@CACM.
 * Appointed as [Professor of Large-Scale Data Management Systems](https://di.ku.dk/english/news/2020/yongluan-zhou-professor-english/). 
 * New project funded by [Independent Research Fund Denmark](https://dff.dk/en): "PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems". A PhD position will be available. Please contact me for more details if you are interested.
@@ -18,13 +18,17 @@ redirect_from:
 * Serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 
 ## Short Bio
-Yongluan Zhou is professor in the [Department of Computer Science](http://diku.dk)(DIKU) at the [University of Copenhagen](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/). Before joining UCPH, he had been Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems. His recent research focuses on scalable event-driven systems and graph data processing. He has published over 60 peer-reviewed research articles in international journals and conference proceedings. He is General Co-Chair of EDBT/ICDT 2020, Local Organization Co-Chair of VLDB 2021, and PC Vice-Chair of IEEE BigData 2019. He has also served on the Program Committees of various other international conferences, including SIGMOD, VLDB, and ICDE. 
+Yongluan Zhou is professor in the [Department of Computer Science](http://diku.dk)(DIKU) at the [University of Copenhagen](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/). Before joining UCPH, he had been Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems. His recent research focuses on scalable event-driven systems and graph data processing. He has published over 60 peer-reviewed research articles in international journals and conference proceedings. He is currently a member of the EDBT Executive Board. He has been Local Arrangement Co-Chair of VLDB 2021, General Co-Chair of EDBT/ICDT 2020, and PC Vice-Chair of IEEE BigData 2019. He has also served on the Program Committees of various other international conferences, including SIGMOD, VLDB, ICDE, CIKM, and SSDBM. 
 
 
-## Recent Professional Activities
+## Recent Professional Services
+
+### Scientific Community
+* Member of the [EDBT Executive Board](https://www.edbt.org/)
+
 ### Conference Organization Committee
-* VLDB 2021 (Local Arrangement Chair)
-* EDBT/ICDT 2020 (General Chair)
+* [VLDB 2021](https://vldb.org/2021/) (Local Arrangement Chair)
+* [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/?contents=main.html) (General Chair)
 * IEEE BigData 2019 (PC Vice-Chair)
 
 ### Conference/Workshop Program Committee
