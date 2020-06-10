@@ -24,7 +24,7 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 ## Recent Professional Services
 
 ### Scientific Community
-* Member of the [EDBT Executive Board](https://www.edbt.org/)
+* Member of the [EDBT Executive Board](https://www.edbt.org/) (2020 -- present)
 
 ### Conference Organization Committee
 * [VLDB 2021](https://vldb.org/2021/) (Local Arrangement Chair)
