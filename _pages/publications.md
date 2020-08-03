@@ -50,11 +50,11 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 * [Tolerating Correlated Failures in Massively Parallel Stream Processing Engines](http://arxiv.org/abs/1508.04907). L. Su, **Y. Zhou**. 32nd IEEE International Conference on Data Engineering (ICDE 2016), Helsinki, Finland, May 16-20, 2016. (selected as best of ICDE'16 to be invited to submit an extended version to TKDE.)
 
 ### 2015
-* Dissemination of Anonymized Streaming Data. **Y. Zhou**, L. Shou, X. Shang, K. Chen. The 9th ACM International Conference on Distributed Event-Based Systems (DEBS 2015). Oslo, Norway, June 29 - July 3, 2015.
+* [Scalable SPARQL Querying using Path Partitioning](https://static-curis.ku.dk/portal/files/245634501/ICDE15_research_256.pdf). B. Wu, **Y. Zhou**, P. Yuan, L. Liu, H. Jin. 31st IEEE International Conference on Data Engineering (ICDE 2015), Seoul, Korea, April 13-17, 2015.
 * Adaptive Grid-Based k-median Clustering of Streaming Data with Accuracy Guarantee. J. Cao, **Y. Zhou**, M. Wu. The 20th International Conference on Database Systems for Advanced Applications (DASFAA 2015). Hanoi, Vietnam, 20-23 April, 2015. (Best Paper Award)
-* Scalable SPARQL Querying using Path Partitioning. B. Wu, **Y. Zhou**, P. Yuan, L. Liu, H. Jin. 31st IEEE International Conference on Data Engineering (ICDE 2015), Seoul, Korea, April 13-17, 2015.
 * Dynamic Resource Management in a MapReduce-Style Platform for Fast Data Processing. K. G. S. Madsen, **Y. Zhou**. Workshop on Cloud Data Management (CloudDM) In Conjunction with the IEEE International Conference on Data Engineering (ICDE 2015), Seoul, Korea, April 13-17, 2015.
 * Online Data Partitioning in Distributed Database Systems. K. Chen, **Y. Zhou**, Y. Cao. 18th International Conference on Extending Database Technology (EDBT 2015), Brussels, Belgium, March 27-27, 2015.
+* Dissemination of Anonymized Streaming Data. **Y. Zhou**, L. Shou, X. Shang, K. Chen. The 9th ACM International Conference on Distributed Event-Based Systems (DEBS 2015). Oslo, Norway, June 29 - July 3, 2015.
 * Dynamic Resource Management in a Massively Parallel Stream Processing Engine. K. Madsen, **Y. Zhou**. 24th ACM International Conference on Information and Knowledge Management (CIKM 2015) , Melbourne, Australia, October 19-23, 2015.
 * PROM: Efficient Matching Query Processing on High-dimensional Data. C. Ma, **Y. Zhou**, L. Shou, G. Chen. Information Sciences, Volume 322, 20 November 2015, Pages 1-19.
 * Feedback Based Continuous Skyline Queries Over a Distributed Framework. A. K. L., J. Cao, **Y. Zhou**. Advances in Databases and Information Systems - 19th East European Conference (ADBIS 2015), Poitiers, France, September 8-11, 2015, Pages 287-301.
