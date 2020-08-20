@@ -18,7 +18,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 
 ### 2020
 * ByteSeries : An In-Memory Database for Large-Scale Monitoring Systems.  X. Shi, Z. Feng, K. Li, **Y. Zhou**, H. Jin, Y. Jiang, B. He, Z. Ling, X. Li. in Proceedings of the ACM Symposium on Cloud Computing (SoCC'20), Seattle, WA, USA, October 19-21, 2020.
-* [From a Monolithic Big Data System to a Microservices Event-Driven Architecture](https://static-curis.ku.dk/portal/files/245635593/SEAA_2020.pdf). R. Laigner, M. Kalinowski, P. Diniz, L. Barros, C. Cassino, M. Lemos, D. Arruda, S. Lifschitz, **Zhou, Y**. In 46th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2020, Portorož, Slovenia, Aug 26-28, 2020. 
+* [From a Monolithic Big Data System to a Microservices Event-Driven Architecture](https://static-curis.ku.dk/portal/files/245635593/SEAA_2020.pdf). R. Laigner, M. Kalinowski, P. Diniz, L. Barros, C. Cassino, M. Lemos, D. Arruda, S. Lifschitz, **Y. Zhou**. In 46th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2020, Portorož, Slovenia, Aug 26-28, 2020. 
 * [Maxson: Reduce Duplicate Parsing Overhead on Raw Data](icde20-maxson.pdf). X. Shi, Y. Zhang, H. Huang, Z. Hu, H. Jin, H. Shen, **Y. Zhou**, B. He, R. Li, K. Zhou. In ICDE 2020, IEEE 36th International Conference on Data Engineering, Dallas, Texas, USA, April 20th -24th, 2020.
 * [Holding a Conference Online and Live due to COVID-19](https://arxiv.org/abs/2004.07668). A. Bonifati, G. Guerrini, C. Lutz, W. Martens, L. Mazilu, N. Paton, M.A.V. Salles, M.H. Scholl, **Y. Zhou**. ArXiv, abs/2004.07668.
 
