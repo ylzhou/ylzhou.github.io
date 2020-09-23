@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### Current Group Members:
-* Yuan Liang, PhD student
-* Ziming Luo, PhD student
-* Yijian Liu, PhD student
-* Rodrigo Laigner, PhD student 
+* [Yuan Liang](https://di.ku.dk/english/staff/vip/?pure=en/persons/610365), PhD student
+* [Ziming Luo](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F629090), PhD student
+* [Yijian Liu](https://di.ku.dk/english/staff/vip/?pure=en/persons/629623), PhD student
+* [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
 * Albertas Kazakevicius, MSc student
 * Viktoria Simsikova, MSc student
 * Lorenzo Catalli, MSc student

@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ## Recent News
+* Paper on high-dimensional time-series databases accepted in ACM SoCC'2020: "[ByteSeries : An In-Memory Time Series Database for Large-Scale Monitoring Systems](https://static-curis.ku.dk/portal/files/248553347/ByteSeries_v_final.pdf)"
+* Paper on reducing overhead of large-scale JSON data parsing accepted in ICDE'2020: "[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](https://static-curis.ku.dk/portal/files/248552117/icde20_maxson.pdf)"
+* An exerience paper on building big data systems with microservice architecture published in SEAA'2020: "[From a Monolithic Big Data System to a Microservices Event-Driven Architecture](https://static-curis.ku.dk/portal/files/245635593/SEAA_2020.pdf)"
+* My PhD student [Rodrigo Laigner](https://rnlaigner.github.io/) has received the TALENT Fellowship co-funded by a EU Marie Skłodowska-Curie grant. Congratulations, Rodrigo! 
 * [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/) was held virtually from 30th March to 2nd April, 2020. See our [report about EDBT/ICDT 2020](https://cacm.acm.org/blogs/blog-cacm/244379-holding-a-conference-online-and-live-due-to-covid-19/fulltext) posted on Blog@CACM.
-* Appointed as [Professor of Large-Scale Data Management Systems](https://di.ku.dk/english/news/2020/yongluan-zhou-professor-english/). 
-* New project funded by [Independent Research Fund Denmark](https://dff.dk/en): "PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems". A PhD position will be available. Please contact me for more details if you are interested.
-* PhD and Postdoc Positions are available within the new project "[Consistent and Efficient Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)" funded by [Independent Research Fund Denmark](https://dff.dk/en). Please contact me for more details if you are interested.
-* Serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/) from April 2019.
 
 ## Short Bio
-Yongluan Zhou is professor in the [Department of Computer Science](http://diku.dk)(DIKU) at the [University of Copenhagen](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the Head of Studies of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/). Before joining UCPH, he had been Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems. His recent research focuses on scalable event-driven systems and graph data processing. He has published over 60 peer-reviewed research articles in international journals and conference proceedings. He is currently a member of the EDBT Executive Board. He has been Local Arrangement Co-Chair of VLDB 2021, General Co-Chair of EDBT/ICDT 2020, and PC Vice-Chair of IEEE BigData 2019. He has also served on the Program Committees of various other international conferences, including SIGMOD, VLDB, ICDE, CIKM, and SSDBM. 
+Yongluan Zhou is professor in the [Department of Computer Science](http://diku.dk)(DIKU) at the [University of Copenhagen](http://ku.dk). He is co-leading the [Data Management Systems Lab (DMS Lab)](http://diku.dk/dms). He serves as the head of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/). Before joining UCPH, he had been Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems. His recent research focuses on scalable event-driven systems and graph data processing. He has published over 60 peer-reviewed research articles in international journals and conference proceedings. He is currently a member of the EDBT Executive Board. He has been Local Arrangement Co-Chair of VLDB 2021, General Co-Chair of EDBT/ICDT 2020, and PC Vice-Chair of IEEE BigData 2019. He has also served on the Program Committees of various other international conferences, including SIGMOD, VLDB, ICDE, CIKM, and SSDBM. 
 
 
 ## Recent Professional Services
@@ -25,8 +25,8 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 * Member of the [EDBT Executive Board](https://www.edbt.org/) (2020 -- present)
 
 ### Conference Organization Committee
-* [VLDB 2021](https://vldb.org/2021/) (Local Arrangement Chair)
-* [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/?contents=main.html) (General Chair)
+* [VLDB 2021](https://vldb.org/2021/) (Local Arrangement Co-Chair)
+* [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/?contents=main.html) (General Co-Chair)
 * IEEE BigData 2019 (PC Vice-Chair)
 
 ### Conference/Workshop Program Committee
