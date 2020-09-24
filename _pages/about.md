@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Recent News
-* Paper on high-dimensional time-series databases accepted in ACM SoCC'2020: "[ByteSeries : An In-Memory Time Series Database for Large-Scale Monitoring Systems](https://static-curis.ku.dk/portal/files/248553347/ByteSeries_v_final.pdf)"
-* Paper on reducing overhead of large-scale JSON data parsing accepted in ICDE'2020: "[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](https://static-curis.ku.dk/portal/files/248552117/icde20_maxson.pdf)"
+* Paper on high-dimensional time-series databases accepted by ACM SoCC'2020: "[ByteSeries : An In-Memory Time Series Database for Large-Scale Monitoring Systems](https://static-curis.ku.dk/portal/files/248553347/ByteSeries_v_final.pdf)"
+* Paper on reducing overhead of large-scale JSON data parsing published in ICDE'2020: "[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](https://static-curis.ku.dk/portal/files/248552117/icde20_maxson.pdf)"
 * An exerience paper on building big data systems with microservice architecture published in SEAA'2020: "[From a Monolithic Big Data System to a Microservices Event-Driven Architecture](https://static-curis.ku.dk/portal/files/245635593/SEAA_2020.pdf)"
 * My PhD student [Rodrigo Laigner](https://rnlaigner.github.io/) has received the TALENT Fellowship co-funded by a EU Marie Skłodowska-Curie grant. Congratulations, Rodrigo! 
 * [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/) was held virtually from 30th March to 2nd April, 2020. See our [report about EDBT/ICDT 2020](https://cacm.acm.org/blogs/blog-cacm/244379-holding-a-conference-online-and-live-due-to-covid-19/fulltext) posted on Blog@CACM.
