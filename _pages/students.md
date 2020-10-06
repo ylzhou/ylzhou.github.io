@@ -10,6 +10,7 @@ author_profile: true
 * [Ziming Luo](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F629090), PhD student
 * [Yijian Liu](https://di.ku.dk/english/staff/vip/?pure=en/persons/629623), PhD student
 * [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
+* [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-suprevisor) 
 * Albertas Kazakevicius, MSc student
 * Viktoria Simsikova, MSc student
 * Lorenzo Catalli, MSc student
