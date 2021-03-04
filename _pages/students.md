@@ -11,10 +11,9 @@ author_profile: true
 * [Yijian Liu](https://di.ku.dk/english/staff/vip/?pure=en/persons/629623), PhD student
 * [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
 * [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-suprevisor) 
-* Albertas Kazakevicius, MSc student
-* Viktoria Simsikova, MSc student
-* Lorenzo Catalli, MSc student
-* Jia Xi, MSc student
+* [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student
+* Anna Lesniak, MSc student
+* Prangshuman Das, MSc student
 
 
 ### Graduated PhD students:
@@ -25,6 +24,10 @@ author_profile: true
 * Ahmed Khan Laghari, Thesis Title: Stream Processing over the Cloud, Oct. 2015
 
 ### Graduated MSc students
+* Jia Xi, Thesis Title: A code generator for DCR graphs on Orleans, Oct 2020.
+* Lorenzo Catalli, Thesis Title: Design and implementation of a distributed saga execution component, Oct 2020.
+* Viktoria Simsikova, Thesis Title: Data Generator for Event Streaming Systems in aLogistics Application, Sept 2020.
+* Albertas Kazakevicius, Thesis Title: Benchmarking of scalable stream processing engines for real-time data integration. Jun 2020.
 * You Wu, Thesis Title: Fault-tolerant Stream Processing in Actor Based Programming Frameworks, Aug 2018.
 * Martin Wolf (co-supervised with Fabrizio Montesi), Thesis Title: Replicating Workflow-Based Services, Jun 2016.
 * Ioannis Koutavas, Thesis Title: Parallel Skyline Processing using MapReduce, Sept 2015.

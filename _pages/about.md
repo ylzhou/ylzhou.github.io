@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
+* Preprint of our survey paper on Data Management in Microservices: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/257545323/preprint.pdf)". 
 * Paper on high-dimensional time-series databases accepted by ACM SoCC'2020: "[ByteSeries : An In-Memory Time Series Database for Large-Scale Monitoring Systems](https://static-curis.ku.dk/portal/files/248553347/ByteSeries_v_final.pdf)"
 * Paper on reducing overhead of large-scale JSON data parsing published in ICDE'2020: "[Maxson: Reduce Duplicate Parsing Overhead on Raw Data](https://static-curis.ku.dk/portal/files/248552117/icde20_maxson.pdf)"
 * An exerience paper on building big data systems with microservice architecture published in SEAA'2020: "[From a Monolithic Big Data System to a Microservices Event-Driven Architecture](https://static-curis.ku.dk/portal/files/245635593/SEAA_2020.pdf)"
