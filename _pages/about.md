@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
+* A research paper accepted at PVLDB'21: "Data Management in Microservices: State of the Practice, Challenges, and Research Directions".
 * Two research papers accepted at DEBS'21: "[A Distributed Database System for Event-based Microservices](https://curis.ku.dk/portal/files/270151676/DEBS_2021.pdf)", and "[Fast Recovery of Correlated Failures in Distributed Stream Processing Engines](https://static-curis.ku.dk/portal/files/272137984/Fast_Recovery_of_Correlated_Failures_in_Distributed_Stream_Processing_Engines.pdf)".
 * Two demo papers accepted at DEBS'21: "[HawkEDA: A Tool for Quantifying Data Integrity Violations in Event-driven Microservices](https://static-curis.ku.dk/portal/files/270165029/DEBS_2021_HawkEDA_A_tool_for_quantifying_data_integrity_violations_in_event_driven_microservices.pdf)", and "[Enforcing Consistency in Microservice Architectures through Event-based Constraints](https://static-curis.ku.dk/portal/files/270162660/DEBS_2021_Demo_Enforcing_Consistency_through_Event_based_Constraints_in_Microservice_Architectures.pdf)".
 * Preprint of our survey paper on Data Management in Microservices: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/257545323/preprint.pdf)". 
