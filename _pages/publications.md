@@ -16,7 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2021
-* [Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/276703832/VLDB2021.pdf). R. Laigner, **Y. Zhou**, M. A. V. Salles, Y. Liu, M. Klinowski. Proceedings of the VLDB Endowment (PVLDB), Vol 14, 2021. (to appear)
+* [Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/276703832/VLDB2021.pdf). R. Laigner, **Y. Zhou**, M. A. V. Salles, Y. Liu, M. Klinowski. Proceedings of the VLDB Endowment (PVLDB), Vol 14, Issue 13, pp. 3348-3361, 2021. 
 * [A Distributed Database System for Event-based Microservices](https://curis.ku.dk/portal/files/270151676/DEBS_2021.pdf). R. Laigner, **Y. Zhou**, M. A. V. Salles. In DEBS 2021, 15th ACM International Conference on Distributed and Event‐based Systems (DEBS). Milan, Italy, 2021.
 * [Fast Recovery of Correlated Failures in Distributed Stream Processing Engines](https://static-curis.ku.dk/portal/files/272137984/Fast_Recovery_of_Correlated_Failures_in_Distributed_Stream_Processing_Engines.pdf). L. Su, **Y. Zhou**. In DEBS 2021, 15th ACM International Conference on Distributed and Event‐based Systems (DEBS), Milan, Italy, 2021.
 * [HawkEDA: A Tool for Quantifying Data Integrity Violations in Event-driven Microservices](https://static-curis.ku.dk/portal/files/270165029/DEBS_2021_HawkEDA_A_tool_for_quantifying_data_integrity_violations_in_event_driven_microservices.pdf). P. Das, R. Laigner, **Y. Zhou**. In DEBS 2021, 15th ACM International Conference on Distributed and Event‐based Systems (DEBS), Milan, Italy, 2021.
