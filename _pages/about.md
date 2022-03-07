@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 ## Recent News
+* We are hosting [ACM DEBS 2022](https://2022.debs.org/).
+* We are hosting [SSDBM 2022](https://ssdbm.org/2022/).  
 * A research paper accepted at PVLDB'21: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/276703832/VLDB2021.pdf)".
 * Two research papers accepted at DEBS'21: "[A Distributed Database System for Event-based Microservices](https://curis.ku.dk/portal/files/270151676/DEBS_2021.pdf)", and "[Fast Recovery of Correlated Failures in Distributed Stream Processing Engines](https://static-curis.ku.dk/portal/files/272137984/Fast_Recovery_of_Correlated_Failures_in_Distributed_Stream_Processing_Engines.pdf)".
 * Two demo papers accepted at DEBS'21: "[HawkEDA: A Tool for Quantifying Data Integrity Violations in Event-driven Microservices](https://static-curis.ku.dk/portal/files/270165029/DEBS_2021_HawkEDA_A_tool_for_quantifying_data_integrity_violations_in_event_driven_microservices.pdf)", and "[Enforcing Consistency in Microservice Architectures through Event-based Constraints](https://static-curis.ku.dk/portal/files/270162660/DEBS_2021_Demo_Enforcing_Consistency_through_Event_based_Constraints_in_Microservice_Architectures.pdf)".
@@ -24,15 +26,17 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 
 ## Recent Professional Services
 
-### Scientific Community
-* Member of the [EDBT Executive Board](https://www.edbt.org/) (2020 -- present)
 
 ### Conference Organization Committee
+* [ACM DEBS 2022](https://2022.debs.org/) (General Chair)
+* [SSDBM 2022](https://ssdbm.org/2022/) (General Chair)
 * [VLDB 2021](https://vldb.org/2021/) (Local Arrangement Co-Chair)
 * [EDBT/ICDT 2020](https://diku-dk.github.io/edbticdt2020/?contents=main.html) (General Co-Chair)
 * IEEE BigData 2019 (PC Vice-Chair)
 
-### Conference/Workshop Program Committee
+### Program Committee
+* PVLDB 2022
+* ICDE 2022
 * CIKM 2021
 * SSDBM 2021
 * ICDE 2021
@@ -43,13 +47,9 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 * MDM 2020
 * SIGMOD 2019
 * DASFAAA 2019
-* MDM 2019
-* IEEE BigData Congress 2019
 * ICDE 2018 (demo track & industry and applications track)
-* OPODIS 2018
 * SSDBM 2018
-* DASFAA 2018
-* MDM 2018
-* IEEE BigData 2018
-* IEEE BigData Congress 2018
-* ADC 2018
+
+### Memgership of Scientific Associations
+* Member of the [EDBT Association](https://www.edbt.org/), EDBT Executive Board (2020 -- present)
+* ACM Member

@@ -7,13 +7,11 @@ author_profile: true
 
 ### Current Group Members:
 * [Yuan Liang](https://di.ku.dk/english/staff/vip/?pure=en/persons/610365), PhD student
-* [Ziming Luo](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F629090), PhD student
 * [Yijian Liu](https://di.ku.dk/english/staff/vip/?pure=en/persons/629623), PhD student
 * [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
-* [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-suprevisor) 
+* [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-supervised with Boris Düdder) 
 * [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student
-* Anna Lesniak, MSc student
-* Prangshuman Das, MSc student
+* Marko Milic, MSc student
 
 
 ### Graduated PhD students:
@@ -24,6 +22,8 @@ author_profile: true
 * Ahmed Khan Laghari, Thesis Title: Stream Processing over the Cloud, Oct. 2015
 
 ### Graduated MSc students
+* Anna Lesniak, Thesis Title: Enforcing data consistency in event-driven microservices through event-based constraints, Jun 2021.
+* Prangshuman Das, Thesis Title: Identifying and Quantifying Feral Anomalies in Event-Driven Applications, Jun 2021.
 * Jia Xi, Thesis Title: A code generator for DCR graphs on Orleans, Oct 2020.
 * Lorenzo Catalli, Thesis Title: Design and implementation of a distributed saga execution component, Oct 2020.
 * Viktoria Simsikova, Thesis Title: Data Generator for Event Streaming Systems in aLogistics Application, Sept 2020.
