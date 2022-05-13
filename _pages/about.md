@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
-* Our paper about transaction processing in actor systems accepted at SIGMOD'22: "Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems".
+* Our paper about transaction processing in actor systems accepted at SIGMOD'22: "[Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems)".
 * We are hosting [ACM DEBS 2022](https://2022.debs.org/).
 * We are hosting [SSDBM 2022](https://ssdbm.org/2022/).  
 * A research paper accepted at PVLDB: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/287616817/Data_Management_in_Microservices.pdf)".
