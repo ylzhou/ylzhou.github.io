@@ -16,7 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2022
-* [Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems). Y. Liu, L. Su, V. Shah, **Y. Zhou**, M. A. V. Salles. In SIGMOD 2022. 
+* [Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems). Y. Liu, L. Su, V. Shah, **Y. Zhou**, M. A. V. Salles. In SIGMOD 2022, pp. 65-78. ([Presentation](https://www.youtube.com/watch?v=YWQu74rvoRM), [Source Code](https://github.com/diku-dk/Snapper-Orleans)) 
 
 ### 2021
 * [Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/287616817/Data_Management_in_Microservices.pdf). R. Laigner, **Y. Zhou**, M. A. V. Salles, Y. Liu, M. Klinowski. Proceedings of the VLDB Endowment (PVLDB), Vol 14, Issue 13, pp. 3348-3361, 2021. 
