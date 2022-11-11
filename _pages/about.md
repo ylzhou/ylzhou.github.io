@@ -53,5 +53,6 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 * SSDBM 2018
 
 ### Memgership of Scientific Associations
+* Member of SSDBM Steering Committee (2022 -- present) 
 * Member of the [EDBT Association](https://www.edbt.org/), EDBT Executive Board (2020 -- present)
 * ACM Member
