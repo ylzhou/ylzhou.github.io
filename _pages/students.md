@@ -11,7 +11,8 @@ author_profile: true
 * [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
 * [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-supervised with Boris Düdder) 
 * [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student
-* Marko Milic, MSc student
+* Daniel Van, MSc Student
+* Matti Nielsen, MSc Student
 
 
 ### Graduated PhD students:
@@ -22,6 +23,7 @@ author_profile: true
 * Ahmed Khan Laghari, Thesis Title: Stream Processing over the Cloud, Oct. 2015
 
 ### Graduated MSc students
+* Marko Milic, Thesis Title: Application-level data integrity enforcement in event-driven microservices, June 2022. 
 * Anna Lesniak, Thesis Title: Enforcing data consistency in event-driven microservices through event-based constraints, Jun 2021.
 * Prangshuman Das, Thesis Title: Identifying and Quantifying Feral Anomalies in Event-Driven Applications, Jun 2021.
 * Jia Xi, Thesis Title: A code generator for DCR graphs on Orleans, Oct 2020.
