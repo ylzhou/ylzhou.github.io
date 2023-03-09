@@ -22,7 +22,7 @@ redirect_from:
 Yongluan Zhou is professor in the [Department of Computer Science](http://diku.dk)(DIKU) at the [University of Copenhagen](http://ku.dk). He is leading the [Data Management Systems Lab (DMS Lab)](https://di.ku.dk/english/research/sdps/research-groups/dms/). He serves as the head of the [MSc in Computer Science](https://studies.ku.dk/masters/computer-science/). Before joining UCPH, he had been Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and postdoc at [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He obtained his PhD in Computer Science at the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems. His recent research focuses on scalable event-driven systems and graph data processing. He has published over 60 peer-reviewed research articles in international journals and conference proceedings. He is currently a member of the EDBT Executive Board. He has been Local Arrangement Co-Chair of VLDB 2021, General Co-Chair of EDBT/ICDT 2020, and PC Vice-Chair of IEEE BigData 2019. He has also served on the Program Committees of various other international conferences, including SIGMOD, VLDB, ICDE, CIKM, and SSDBM. 
 
 ## Current Projects
-* [Consistent and Efficent Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)
+* [Consistent and Efficient Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)
 * [PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems](https://papricas.org/)
 
 ## Recent Professional Services
