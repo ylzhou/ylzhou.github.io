@@ -36,8 +36,8 @@ Yongluan Zhou is professor in the [Department of Computer Science](http://diku.d
 * IEEE BigData 2019 (PC Vice-Chair)
 
 ### Program Committee (last five years)
+* ICDE 2018, 2021, 2022, 2024 (Area Chair)
 * VLDB 2023
-* ICDE 2018, 2021, 2022, 2023 (Area Chair)
 * SIGMOD 2019, 2020 
 * EDBT 2023
 * ACM DEBS 2023
