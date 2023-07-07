@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 ## Recent News
+* A research paper accepted at PVLDB'23: "Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests". 
+* Our paper, "An Exploratory Analysis of Methods for Real-time Data Deduplication in Streaming Processes", has been awarded the Best Industry & Applications Paper by ACM DEBS 2023.
 * The source code of [Snapper](https://github.com/diku-dk/Snapper-Orleans) is released. The scripts and data to reproduce the experimental restuls are also available.
 * Our paper about Snapper, a transaction processing library for actor systems accepted at SIGMOD'22: "[Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems)".
 * We are hosting [ACM DEBS 2022](https://2022.debs.org/).
