@@ -15,6 +15,10 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+### 2023
+* Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the VLDB Endownment (PVLDB), 2023.
+* An exploratory analysis of methods for real-time data deduplication in streaming processes. J. Esteves, R. M. Costa, **Y. Zhou**, A. Almeida. In DEBS 2023, Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems, DEBS 2023, Neuchatel, Switzerland, June 27-30, 2023. (**Best Industry & Applications Paper Award**)
+
 ### 2022
 * [Event-Based Data-Centric Semantics for Consistent Data Management in Microservices](https://www.researchgate.net/publication/361419499_Event-Based_Data-Centric_Semantics_for_Consistent_Data_Management_in_Microservices). T. Zuckmantel, **Y. Zhou**, B. Düdder and T. Hildebrandt. In DEBS 2022, 16th ACM International Conference on Distributed and Event‐Based Systems, Copenhagen, Denmark, 2022.  
 * [Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems). Y. Liu, L. Su, V. Shah, **Y. Zhou**, M. A. V. Salles. In SIGMOD 2022, pp. 65-78. ([Presentation](https://www.youtube.com/watch?v=YWQu74rvoRM), [Source Code](https://github.com/diku-dk/Snapper-Orleans)) 
