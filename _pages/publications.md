@@ -16,8 +16,8 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2023
-* Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the VLDB Endownment (PVLDB), 2023.
-* An exploratory analysis of methods for real-time data deduplication in streaming processes. J. Esteves, R. M. Costa, **Y. Zhou**, A. Almeida. In DEBS 2023, Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems, DEBS 2023, Neuchatel, Switzerland, June 27-30, 2023. (**Best Industry & Applications Paper Award**)
+* [Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359315374/search_by_classification_VLDB2023.pdf). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the VLDB Endownment (PVLDB), 2023.
+* [An exploratory analysis of methods for real-time data deduplication in streaming processes](https://static-curis.ku.dk/portal/files/359617173/DEBS2023.pdf). J. Esteves, R. M. Costa, **Y. Zhou**, A. Almeida. In DEBS 2023, Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems, DEBS 2023, Neuchatel, Switzerland, June 27-30, 2023. (**Best Industry & Applications Paper Award**)
 
 ### 2022
 * [Event-Based Data-Centric Semantics for Consistent Data Management in Microservices](https://www.researchgate.net/publication/361419499_Event-Based_Data-Centric_Semantics_for_Consistent_Data_Management_in_Microservices). T. Zuckmantel, **Y. Zhou**, B. Düdder and T. Hildebrandt. In DEBS 2022, 16th ACM International Conference on Distributed and Event‐Based Systems, Copenhagen, Denmark, 2022.  
