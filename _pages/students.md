@@ -6,15 +6,11 @@ author_profile: true
 ---
 
 ### Current Group Members:
-* [Yuan Liang](https://di.ku.dk/english/staff/vip/?pure=en/persons/610365), PhD student
 * [Yijian Liu](https://di.ku.dk/english/staff/vip/?pure=en/persons/629623), PhD student
 * [Rodrigo Laigner](https://rnlaigner.github.io/), PhD student 
 * [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-supervised with Boris Düdder) 
 * [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student (co-supervised with Boris Düdder) 
 * [Ana Carolina Almeida](https://di.ku.dk/english/staff/?pure=en/persons/742253), Postdoc
-* Daniel Van, MSc Student
-* Matti Nielsen, MSc Student
-
 
 ### Graduated PhD students:
 * Li Su, Thesis Title: Fault Tolerance in Distributed Stream Processing Systems, Aug 2016.
@@ -24,6 +20,12 @@ author_profile: true
 * Ahmed Khan Laghari, Thesis Title: Stream Processing over the Cloud, Oct. 2015
 
 ### Graduated MSc students
+* Matti Nielsen, Thesis Title: Adding SLOG Single-Home and Multi-Home Transactions to Distributed Snappers, July 2023.
+* Guanran Tai, Thesis Title: An Open Source Library for Atomic Migraiton of Erlang Processes, June 2023. 
+* Bo Cui, Thesis Title: Failure Recovery in Deterministic Transaction Processing Systems, June 2023.
+* Klaus Philipp Theyssen, Thesis Title: Monitoring Safety Properties in Even-Driven Microservices, June 2023.
+* Adam Zdziechowski, Thesis Title: Monitoring Safety Properties in Even-Driven Microservices, June 2023.
+* Daniel Van, Thesis Title: Application-level data integrity enforcement in event-driven microservices,  2022.
 * Marko Milic, Thesis Title: Application-level data integrity enforcement in event-driven microservices, June 2022. 
 * Anna Lesniak, Thesis Title: Enforcing data consistency in event-driven microservices through event-based constraints, Jun 2021.
 * Prangshuman Das, Thesis Title: Identifying and Quantifying Feral Anomalies in Event-Driven Applications, Jun 2021.
