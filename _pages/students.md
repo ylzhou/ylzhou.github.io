@@ -11,6 +11,8 @@ author_profile: true
 * [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-supervised with Boris Düdder) 
 * [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student (co-supervised with Boris Düdder) 
 * [Ana Carolina Almeida](https://di.ku.dk/english/staff/?pure=en/persons/742253), Postdoc
+* Zhexiang Zhang, MSc student
+* Jingyi Zheng, MSc student
 
 ### Graduated PhD students:
 * Li Su, Thesis Title: Fault Tolerance in Distributed Stream Processing Systems, Aug 2016.
