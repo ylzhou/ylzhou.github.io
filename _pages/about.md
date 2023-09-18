@@ -9,15 +9,12 @@ redirect_from:
 ---
 
 ## Recent News
-* A research paper accepted at PVLDB'23: "[Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf)". 
+* A research paper accepted at NDSS'24: "A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance". 
+* A research paper accepted at VLDB'23: "[Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf)". 
 * Our paper, "[An Exploratory Analysis of Methods for Real-time Data Deduplication in Streaming Processes](https://static-curis.ku.dk/portal/files/359617173/DEBS2023.pdf)", has been awarded the **Best Industry & Applications Paper** by ACM DEBS 2023.
 * The source code of [Snapper](https://github.com/diku-dk/Snapper-Orleans) is released. The scripts and data to reproduce the experimental restuls are also available.
 * Our paper about Snapper, a transaction processing library for actor systems accepted at SIGMOD'22: "[Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems](https://www.researchgate.net/publication/360065293_Hybrid_Deterministic_and_Nondeterministic_Execution_of_Transactions_in_Actor_Systems)".
-* We are hosting [ACM DEBS 2022](https://2022.debs.org/).
-* We are hosting [SSDBM 2022](https://ssdbm.org/2022/).  
-* A research paper accepted at PVLDB: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/287616817/Data_Management_in_Microservices.pdf)".
-* Two research papers accepted at DEBS'21: "[A Distributed Database System for Event-based Microservices](https://curis.ku.dk/portal/files/270151676/DEBS_2021.pdf)", and "[Fast Recovery of Correlated Failures in Distributed Stream Processing Engines](https://static-curis.ku.dk/portal/files/272137984/Fast_Recovery_of_Correlated_Failures_in_Distributed_Stream_Processing_Engines.pdf)".
-* Two demo papers accepted at DEBS'21: "[HawkEDA: A Tool for Quantifying Data Integrity Violations in Event-driven Microservices](https://static-curis.ku.dk/portal/files/270165029/DEBS_2021_HawkEDA_A_tool_for_quantifying_data_integrity_violations_in_event_driven_microservices.pdf)", and "[Enforcing Consistency in Microservice Architectures through Event-based Constraints](https://static-curis.ku.dk/portal/files/270162660/DEBS_2021_Demo_Enforcing_Consistency_through_Event_based_Constraints_in_Microservice_Architectures.pdf)".
+* A research paper accepted at VLDB'2022: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/287616817/Data_Management_in_Microservices.pdf)".
 * My PhD student [Rodrigo Laigner](https://rnlaigner.github.io/) has received the [TALENT Doctoral Fellowship](https://talent.ku.dk/) co-funded by a EU Marie Skłodowska-Curie grant. Congratulations, Rodrigo! 
 
 ## Short Bio
