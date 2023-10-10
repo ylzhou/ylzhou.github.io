@@ -15,6 +15,9 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+### 2024
+* A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance. Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the Network and Distributed System Security Symposium (NDSS), 2024.  
+
 ### 2023
 * RapidEarth: A Search Engine for Large-Scale Geospatial Imagery. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In SIGSPATIAL, 2023. 
 * [Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the VLDB Endownment (PVLDB), 2023.
