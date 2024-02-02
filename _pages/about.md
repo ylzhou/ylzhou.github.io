@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
-* "[RapidEarth: A Search-by-Classification Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf)" has been awarded the *Best Demo" by ACM SIGSPATIAL 2023. 
+* "[RapidEarth: A Search-by-Classification Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf)" has been awarded the **Best Demo** by ACM SIGSPATIAL 2023. 
 * Paper accepted at NDSS'24: "A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance". 
 * Paper accepted at VLDB'23: "[Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf)". 
 * "[An Exploratory Analysis of Methods for Real-time Data Deduplication in Streaming Processes](https://static-curis.ku.dk/portal/files/359617173/DEBS2023.pdf)" has been awarded the **Best Industry & Applications Paper** by ACM DEBS 2023.
