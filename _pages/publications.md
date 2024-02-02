@@ -19,7 +19,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 * A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance. Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the Network and Distributed System Security Symposium (NDSS), 2024.  
 
 ### 2023
-* RapidEarth: A Search Engine for Large-Scale Geospatial Imagery. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In SIGSPATIAL, 2023. 
+* [RapidEarth: A Search Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In SIGSPATIAL, 2023. (**Best Demo Award**)
 * [Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the VLDB Endownment (PVLDB), 2023.
 * [An exploratory analysis of methods for real-time data deduplication in streaming processes](https://static-curis.ku.dk/portal/files/359617173/DEBS2023.pdf). J. Esteves, R. M. Costa, **Y. Zhou**, A. Almeida. In DEBS 2023, Proceedings of the 17th ACM International Conference on Distributed and Event-based Systems, DEBS 2023, Neuchatel, Switzerland, June 27-30, 2023. (**Best Industry & Applications Paper Award**)
 
