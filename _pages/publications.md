@@ -16,7 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2024
-* A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance. Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the Network and Distributed System Security Symposium (NDSS), 2024.  
+* [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://static-curis.ku.dk/portal/files/383187413/ndss24_fall_final6_final.pdf). Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the Network and Distributed System Security Symposium (NDSS), 2024.  
 
 ### 2023
 * [RapidEarth: A Search Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In SIGSPATIAL, 2023. (**Best Demo Award**)
