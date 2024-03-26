@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
+* Demo paper accepted at SIGIR'24: "CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval". 
 * "[RapidEarth: A Search-by-Classification Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf)" has been awarded the **Best Demo** by ACM SIGSPATIAL 2023. 
 * Paper accepted at NDSS'24: "[A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://static-curis.ku.dk/portal/files/383187413/ndss24_fall_final6_final.pdf)". 
 * Paper accepted at VLDB'23: "[Fast Search-By-Classification for Large-Scale Databases Using Index-Aware Decision Trees and Random Forests](https://static-curis.ku.dk/portal/files/359617615/search_by_classification_VLDB2023.pdf)". 
