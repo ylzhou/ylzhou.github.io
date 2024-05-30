@@ -16,6 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2024
+* [Benchmarking Data Management Systems for Microservices](https://arxiv.org/abs/2405.11529). R. Laigner, **Y. Zhou**. In ICDE 2024, Lightning Talk, Utrecht, Netherland, May 13-17, 2024. 
 * CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In SIGIR 2024.
 * [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://static-curis.ku.dk/portal/files/383187413/ndss24_fall_final6_final.pdf). Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the Network and Distributed System Security Symposium (NDSS), 2024.  
 
