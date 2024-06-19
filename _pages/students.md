@@ -11,9 +11,7 @@ author_profile: true
 * [Li Quan](https://research.ku.dk/search/result/?pure=en%2Fpersons%2F693267), PhD student (co-supervised with Boris Düdder) 
 * [Tilman Zuckmantel](https://di.ku.dk/english/staff/?pure=en/persons/707468), PhD student (co-supervised with Boris Düdder) 
 * [Ana Carolina Almeida](https://di.ku.dk/english/staff/?pure=en/persons/742253), Postdoc
-* Alibek Cholponbaev, MSc student
 * Lasse Kokholm, MSc student
-* Sigurður Kalman Oddsson, MSc Student
 
 ### Graduated PhD students:
 * Li Su, Thesis Title: Fault Tolerance in Distributed Stream Processing Systems, Aug 2016.
@@ -23,6 +21,9 @@ author_profile: true
 * Ahmed Khan Laghari, Thesis Title: Stream Processing over the Cloud, Oct. 2015
 
 ### Graduated MSc students
+* Alibek Cholponbaev, Thesis Title: AsyncDB: a database system for asynchronous application architectures, June 2024.
+* Sigurður Kalman Oddsson, Thesis Title: 	
+Mapping Relational Benchmarks to Actor Systems, June 2024.
 * Matti Nielsen, Thesis Title: Adding SLOG Single-Home and Multi-Home Transactions to Distributed Snappers, July 2023.
 * Guanran Tai, Thesis Title: An Open Source Library for Atomic Migraiton of Erlang Processes, June 2023. 
 * Bo Cui, Thesis Title: Failure Recovery in Deterministic Transaction Processing Systems, June 2023.
