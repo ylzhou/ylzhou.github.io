@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Recent News
+* Paper accepted at SoCC'24: "Rethinking State Management in Actor Systems". 
 * Demo paper accepted at SIGIR'24: "CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval". 
 * "[RapidEarth: A Search-by-Classification Engine for Large-Scale Geospatial Imagery](https://static-curis.ku.dk/portal/files/381260612/RapidEarth.pdf)" has been awarded the **Best Demo** by ACM SIGSPATIAL 2023. 
 * Paper accepted at NDSS'24: "[A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://static-curis.ku.dk/portal/files/398562489/A_Two_Layer_Blockchain_Sharding_Protocol_Leveraging_Safety_and_Liveness_for_Enhanced_Performance_Final_updates_2_.pdf)". 
