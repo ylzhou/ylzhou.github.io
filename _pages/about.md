@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+## Short Bio
+Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http://diku.dk) at the [University of Copenhagen](http://ku.dk), where he leads the [Data Management Systems Lab (DMS Lab)](https://di.ku.dk/english/research/sdps/research-groups/dms/). He also heads the MSc in Computer Science at DIKU. Prior to his current position, he worked as an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and as a postdoc at the [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He earned his Ph.D. in Computer Science from the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems, with his recent focus being on scalable event-driven systems. He has authored more than 80 peer-reviewed research articles in international journals and conference proceedings. He serves on the EDBT Executive Board and the SSDBM Steering Committee and has chaired various international conferences, including DEBS 2022, SSDBM 2022, and EDBT 2020. He has also served on the Program Committees of many other international conferences, including SIGMOD, VLDB, ICDE, EDBT, CIKM, and SSDBM.
+
 ## Recent News
 * Paper accepted at SoCC'24: "Rethinking State Management in Actor Systems". 
 * Demo paper accepted at SIGIR'24: "CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval". 
@@ -20,16 +23,11 @@ redirect_from:
 * Paper accepted at VLDB'2022: "[Data Management in Microservices: State of the Practice, Challenges, and Research Directions](https://static-curis.ku.dk/portal/files/287616817/Data_Management_in_Microservices.pdf)".
 * My PhD student [Rodrigo Laigner](https://rnlaigner.github.io/) has received the [TALENT Doctoral Fellowship](https://talent.ku.dk/) co-funded by a EU Marie Skłodowska-Curie grant. Congratulations, Rodrigo! 
 
-## Short Bio
-Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http://diku.dk) at the [University of Copenhagen](http://ku.dk), where he leads the [Data Management Systems Lab (DMS Lab)](https://di.ku.dk/english/research/sdps/research-groups/dms/). He also heads the MSc in Computer Science at DIKU. Prior to his current position, he worked as an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and as a postdoc at the [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He earned his Ph.D. in Computer Science from the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems, with his recent focus being on scalable event-driven systems. He has authored more than 80 peer-reviewed research articles in international journals and conference proceedings. He serves on the EDBT Executive Board and the SSDBM Steering Committee and has chaired various international conferences, including DEBS 2022, SSDBM 2022, and EDBT 2020. He has also served on the Program Committees of many other international conferences, including SIGMOD, VLDB, ICDE, EDBT, CIKM, and SSDBM.
-
-
 ## Current Projects
 * [Consistent and Efficient Event-Driven Architecture](https://di.ku.dk/english/research/sdps/research-groups/dms/ceeda/)
 * [PAPRiCaS: Programming technology foundations for Accountability, Privacy-by-design & Robustness in Context-aware Systems](https://papricas.org/)
 
 ## Recent Professional Services
-
 
 ### Conference Organization Committee
 * [ICWE 2024](https://icwe2024.webengineering.org/) (Posters & Demo Co-Chair)
