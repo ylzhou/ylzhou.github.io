@@ -16,12 +16,12 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2025
-* Online Marketplace: A Benchmark for Data Management in Microservices. R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
+* [Online Marketplace: A Benchmark for Data Management in Microservices](https://arxiv.org/abs/2403.12605). R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
 
 ### 2024
 * [Rethinking State Management in Actor Systems for Cloud-Native Applications](https://www.researchgate.net/publication/385107871_Rethinking_State_Management_in_Actor_Systems_for_Cloud-Native_Applications). Y. Liu, R. Laigner, **Y. Zhou**. In SoCC'24, ACM Symposium on Cloud Computing, Redmond, Nov. 20-22,  2024. 
 * [Benchmarking Data Management Systems for Microservices](https://arxiv.org/abs/2405.11529). R. Laigner, **Y. Zhou**. In 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, The Netherlands, May 13-16, 2024.
-* CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval. C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2024, Washington DC, USA, July 14-18, 2024.
+* [CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657678). C. Lülf, D. M. L. Martins, M. A. V. Salles, **Y. Zhou**, F. Gieseke. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2024, Washington DC, USA, July 14-18, 2024.
 * [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance](https://static-curis.ku.dk/portal/files/398562489/A_Two_Layer_Blockchain_Sharding_Protocol_Leveraging_Safety_and_Liveness_for_Enhanced_Performance_Final_updates_2_.pdf). Y. Xu, J. Zheng, B. Düdder, T. Slaats, **Y. Zhou**. In the 31st Annual Network and Distributed System Security Symposium, NDSS 2024, San Diego, California, USA, February 26 - March 1, 2024.  
 
 ### 2023
