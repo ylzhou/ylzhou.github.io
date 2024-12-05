@@ -16,7 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2025
-* [Online Marketplace: A Benchmark for Data Management in Microservices](https://arxiv.org/abs/2403.12605). R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
+* [Online Marketplace: A Benchmark for Data Management in Microservices](https://www.researchgate.net/publication/379662990_Online_Marketplace_A_Benchmark_for_Data_Management_in_Microservices). R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
 
 ### 2024
 * [Rethinking State Management in Actor Systems for Cloud-Native Applications](https://www.researchgate.net/publication/385107871_Rethinking_State_Management_in_Actor_Systems_for_Cloud-Native_Applications). Y. Liu, R. Laigner, **Y. Zhou**. In SoCC'24, ACM Symposium on Cloud Computing, Redmond, Nov. 20-22,  2024. 
