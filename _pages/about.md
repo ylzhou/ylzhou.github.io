@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Short Bio
-Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http://diku.dk) at the [University of Copenhagen](http://ku.dk), where he leads the [Data Management Systems Lab (DMS Lab)](https://di.ku.dk/english/research/sdps/research-groups/dms/). He also heads the MSc in Computer Science at DIKU. Prior to his current position, he worked as an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and as a postdoc at the [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He earned his Ph.D. in Computer Science from the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems, with his recent focus being on scalable event-driven systems. He has authored more than 80 peer-reviewed research articles in international journals and conference proceedings. He serves on the EDBT Executive Board and the SSDBM Steering Committee and has chaired various international conferences, including DEBS 2022, SSDBM 2022, and EDBT 2020. He has also served on the Program Committees of many other international conferences, including SIGMOD, VLDB, ICDE, EDBT, CIKM, and SSDBM.
+Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http://diku.dk) at the [University of Copenhagen](http://ku.dk), where he leads the [Data Management Systems Lab (DMS Lab)](https://di.ku.dk/english/research/sdps/research-groups/dms/). He also heads the MSc in Computer Science at DIKU. Prior to his current position, he worked as an Associate Professor at the [University of Southern Denmark (SDU)](http://www.sdu.dk) and as a postdoc at the [Ecole Polytechnique Fédérale de Lausanne (EPFL)](http://epfl.ch). He earned his Ph.D. in Computer Science from the [National University of Singapore (NUS)](http://www.nus.edu.sg). His research interests span database systems and distributed systems, with his recent focus being on scalable event-driven systems. He has authored more than 80 peer-reviewed research articles in international journals and conference proceedings. He serves on the EDBT Executive Board and the SSDBM Steering Committee and has chaired various international conferences, including DEBS 2022, SSDBM 2022, and EDBT 2020. He has also served on the Program Committees of many other international conferences, including SIGMOD, VLDB, ICDE, EDBT.
 
 ## Recent News
 * Paper accepted at SIGMOD'25: "[Online Marketplace: A Benchmark for Data Management in Microservices](https://www.researchgate.net/publication/379662990_Online_Marketplace_A_Benchmark_for_Data_Management_in_Microservices)". 
@@ -39,6 +39,7 @@ Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http
 * IEEE BigData 2019 (PC Vice-Chair)
 
 ### Program Committee (last five years)
+* SIGMOD 2019, 2020, 2026 
 * VLDB 2023, 2025
 * ICDE 2021, 2022, 2024 (Area Chair), 2025 
 * EDBT 2023, 2025
@@ -46,7 +47,6 @@ Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http
 * ACM DEBS 2023
 * CIKM 2020, 2021
 * SSDBM 2020, 2021
-* SIGMOD 2019, 2020 
 * MDM 2020
 * DASFAAA 2019, 2020
 
