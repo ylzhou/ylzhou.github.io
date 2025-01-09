@@ -43,8 +43,8 @@ Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http
 * VLDB 2023, 2025
 * ICDE 2021, 2022, 2024 (Area Chair), 2025 
 * EDBT 2023, 2025
+* ACM DEBS 2023, 2025
 * SoCC 2024
-* ACM DEBS 2023
 * CIKM 2020, 2021
 * SSDBM 2020, 2021
 * MDM 2020
