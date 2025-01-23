@@ -30,6 +30,10 @@ Yongluan Zhou is a professor in the [Department of Computer Science (DIKU)](http
 
 ## Recent Professional Services
 
+### Editorial Board
+* [Data Science and Engineering](https://link.springer.com/journal/41019), Associate Editor
+
+
 ### Conference Organization Committee
 * [ICWE 2024](https://icwe2024.webengineering.org/) (Posters & Demo Co-Chair)
 * [ACM DEBS 2022](https://2022.debs.org/) (General Chair)
