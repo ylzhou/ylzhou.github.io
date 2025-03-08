@@ -18,7 +18,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 ### 2025
 * Transactional Cloud Applications: Status Quo, Challenges, and Opportunities. R. Laigner, G. Christodoulou, K. Psarakis, A. Katsifodimos, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
 * [Online Marketplace: A Benchmark for Data Management in Microservices](https://www.researchgate.net/publication/379662990_Online_Marketplace_A_Benchmark_for_Data_Management_in_Microservices). R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
-* P. Xie, Z. Zheng, **Y. Zhou**, Y. Xiu, H. Liu, Z. Yang, Y. Zhang, B. Du. GPU Architectures in Graph Analytics: A Comparative Experimental Study. EDBT 2025, March 25-28, 2025, Barcelona, Spain.
+* GPU Architectures in Graph Analytics: A Comparative Experimental Study. P. Xie, Z. Zheng, **Y. Zhou**, Y. Xiu, H. Liu, Z. Yang, Y. Zhang, B. Du. In EDBT'25, March 25-28, 2025, Barcelona, Spain.
 
 ### 2024
 * [Rethinking State Management in Actor Systems for Cloud-Native Applications](https://www.researchgate.net/publication/385107871_Rethinking_State_Management_in_Actor_Systems_for_Cloud-Native_Applications). Y. Liu, R. Laigner, **Y. Zhou**. In SoCC'24, ACM Symposium on Cloud Computing, Redmond, Nov. 20-22,  2024. 
