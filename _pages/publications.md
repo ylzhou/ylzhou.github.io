@@ -16,6 +16,7 @@ You can also find my articles on <a href="{{author.dblp}}">my DBLP page</a>.
 {% endif %}
 
 ### 2025
+* An Empirical Study on Challenges of Event Management in Microservice Architectures. R. Laigner, A. Almeida, W. Assunção, **Y. Zhou**. An Empirical Study on Challenges of Event Management in Microservice Architectures. ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted for publication.
 * [Transactional Cloud Applications: Status Quo, Challenges, and Opportunities](https://www.researchgate.net/publication/391120174_Transactional_Cloud_Applications_Status_Quo_Challenges_and_Opportunities). R. Laigner, G. Christodoulou, K. Psarakis, A. Katsifodimos, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
 * [Online Marketplace: A Benchmark for Data Management in Microservices](https://www.researchgate.net/publication/379662990_Online_Marketplace_A_Benchmark_for_Data_Management_in_Microservices). R. Laigner, Z. Zhang, Y. Liu, L. F. Gomes, **Y. Zhou**. In SIGMOD'25, International Conference on Management of Data, June 22-27, 2025, Berlin, Germany.
 * [GPU Architectures in Graph Analytics: A Comparative Experimental Study](https://www.researchgate.net/publication/389691514_GPU_Architectures_in_Graph_Analytics_A_Comparative_Experimental_Study). P. Xie, Z. Zheng, **Y. Zhou**, Y. Xiu, H. Liu, Z. Yang, Y. Zhang, B. Du. In EDBT'25, March 25-28, 2025, Barcelona, Spain.
