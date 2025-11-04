@@ -39,6 +39,7 @@ Yongluan Zhou is Professor in the [Department of Computer Science (DIKU)](http:/
 
 
 ### Conference Organization Committee
+* ICDE 2027 (General Chair)
 * [ICWE 2024](https://icwe2024.webengineering.org/) (Posters & Demo Co-Chair)
 * [ACM DEBS 2022](https://2022.debs.org/) (General Chair)
 * [SSDBM 2022](https://ssdbm.org/2022/) (General Chair)
@@ -47,16 +48,12 @@ Yongluan Zhou is Professor in the [Department of Computer Science (DIKU)](http:/
 * IEEE BigData 2019 (PC Vice-Chair)
 
 ### Program Committee (last five years)
-* SIGMOD 2019, 2020, 2026 
+* SIGMOD 2019, 2020, 2026, 2027
 * VLDB 2023, 2025, 2026
 * ICDE 2021, 2022, 2024 (Area Chair), 2025, 2026
 * EDBT 2023, 2025
 * ACM DEBS 2023, 2025
-* SoCC 2024
-* CIKM 2020, 2021
-* SSDBM 2020, 2021
-* MDM 2020
-* DASFAAA 2019, 2020
+* ACM SoCC 2024, 2025
 
 ### Membership of Scientific Associations
 * Member of ACM DEBS Steering Committee (2024 -- present)
